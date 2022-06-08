@@ -38,13 +38,13 @@
 ---
 
 ## Information
-- Change vcard contacts name on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L33)
-- Change vcard bot name on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L34)
-- Change vcard WhatsApp id on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L35)
-- Change vcard WhatsApp number on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L35)
-- Change bot name on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L41)
-- Change owner name on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L42)
-- Change owner number id on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L153)
+- Change vcard contacts name on [+254784841589](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L33)
+- Change vcard bot name on [teslab0t](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L34)
+- Change vcard WhatsApp id on [+254784841589](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L35)
+- Change vcard WhatsApp number on [+254784841589](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L35)
+- Change bot name on [teslabot](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L41)
+- Change owner name on [elize21](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L42)
+- Change owner number id on [+254784841589](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L153)
 
 ---
 
@@ -55,7 +55,9 @@ Follow The Steps Below!
 > termux-setup-storage
 (after that tap on permission)
 > apt install git -y
-> git clone https://github.com/NazwaS/termux-whatsapp-bot
+> git clone https://github.com/elize21/termux-whatsapp-bot
+
+
 > cd termux-whatsapp-bot
 > bash install.sh
 ```
